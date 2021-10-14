@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a1 {width: 100%;
+     text-align: center;
+     margin-bottom: 45px;
+}
+.a1 a{
+    padding: 40px;
+    color: orange;
+}
+header {
+     width: 100%;
+    height: 612px;
+    background-image: url(./Rectangle\ 48.png);
+}
+header{
+  text-align: center;
+  color: white;
+}
+.a2 button{
+height: 68px;
+width: 236px;
+border-radius: 30px;
+padding: 16px ;
+background: #FA4A0C;
+box-shadow: rgba(183, 50, 39, 0.2);
+border-radius: 30px;
+color: white;
+margin-top: 100px;
+}
+.a2 h1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+}
+.a2 h2{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 38px;
+line-height: 40px;
+margin-top: 40px;
+}
+.a2 p{
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 38px;
+margin-top: 30px;}
+.a3
+{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.a31{
+height: 500px;
+width: 50%;
+margin-left: 255px;
+}
+.bl-plable{
+    height: 500px;
+}
+.a32{
+    margin-left: -400px;
+    height: 500px;
+    width: 50%;
+    margin: 50% ;
+}
+.a4
+{
+    text-align: center;
+}
+.a5
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.a52
+{
+    margin-top: 20%;
+}
+.a52 h1 {
+    font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+color: orange;
+}
+.a52 h2{
+    font-style: normal;
+font-weight: bold;
+}
+.a52 p {
+    font-style: normal;
+font-weight: 500;
+}
+.a6{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.a61{
+    margin-top: 20%;
+}
+.a61 h1{
+    font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+color: orange;
+}
+.a61 h2{ font-style: normal;
+    font-weight: bold;}
+    .a61 p{
+        font-style: normal;
+        font-weight: 500;
+    }
+.a7{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.a72
+{
+    margin-top: 20%;
+}
+.a72 h1{
+    font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+color: orange;
+}
+.a72 h2{
+    font-style: normal;
+    font-weight: bold;
+
+}
+.a72 p{
+    font-style: normal;
+        font-weight: 500;
+
+}
+.a8
+{
+    text-align: center;
+    color: white;
+    background-image: url(./aaa2.png);
+    width: 100%;
+    height: 320px;
+}
+.a8 button{
+    height: 68px;
+    width: 236px;
+    border-radius: 30px;
+    padding: 16px ;
+    background: #FA4A0C;
+    box-shadow: rgba(183, 50, 39, 0.2);
+    border-radius: 30px;
+    color: white;
+    margin-top: 100px;
+}
+.a8 h1{
+    font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 57px;
+
+}
+.a8 p
+{font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+margin-top: 30px;}
+footer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top:40px;
+}
